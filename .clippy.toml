@@ -1,0 +1,4 @@
+# Clippy configuration
+# Disable some pedantic lints that might be too strict for development
+disallowed-names = []
+disallowed-types = [] 
